@@ -1,0 +1,177 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="e1af0232-b5a0-4d7f-8b54-6118e2baa6da" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Python Script" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectId" id="1bGx1iC0r17Yn26W2HauhTYPnPl" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="settings.editor.selected.configurable" value="com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$" />
+    </key>
+  </component>
+  <component name="RunManager">
+    <configuration name="Compare" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="JsonComparison" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Compare.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Python.Compare" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="ServiceViewManager">
+    <option name="viewStates">
+      <list>
+        <serviceView>
+          <treeState>
+            <expand />
+            <select />
+          </treeState>
+        </serviceView>
+      </list>
+    </option>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="e1af0232-b5a0-4d7f-8b54-6118e2baa6da" name="Default Changelist" comment="" />
+      <created>1588272017371</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1588272017371</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="570" y="332" key="#com.intellij.fileTypes.FileTypeChooser" timestamp="1588427025594">
+      <screen x="0" y="23" width="1792" height="1034" />
+    </state>
+    <state x="570" y="332" key="#com.intellij.fileTypes.FileTypeChooser/0.23.1792.1034@0.23.1792.1034" timestamp="1588427025594" />
+    <state x="571" y="235" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog" timestamp="1588540644013">
+      <screen x="0" y="23" width="1792" height="1034" />
+    </state>
+    <state x="571" y="235" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog/0.23.1792.1034@0.23.1792.1034" timestamp="1588540644013" />
+    <state x="667" y="243" key="#xdebugger.XInspectDialog" timestamp="1588536496086">
+      <screen x="0" y="23" width="1792" height="1036" />
+    </state>
+    <state x="667" y="243" key="#xdebugger.XInspectDialog/0.23.1792.1036@0.23.1792.1036" timestamp="1588536496086" />
+    <state x="602" y="182" key="#xdebugger.evaluate" timestamp="1588536505154">
+      <screen x="0" y="23" width="1792" height="1036" />
+    </state>
+    <state x="602" y="182" key="#xdebugger.evaluate/0.23.1792.1036@0.23.1792.1036" timestamp="1588536505154" />
+    <state width="1766" height="372" key="GridCell.Tab.0.bottom" timestamp="1588557953107">
+      <screen x="0" y="23" width="1792" height="1033" />
+    </state>
+    <state width="1766" height="372" key="GridCell.Tab.0.bottom/0.23.1792.1033@0.23.1792.1033" timestamp="1588557953107" />
+    <state width="1766" height="372" key="GridCell.Tab.0.bottom/0.23.1792.1034@0.23.1792.1034" timestamp="1588549042077" />
+    <state width="1766" height="372" key="GridCell.Tab.0.bottom/0.23.1792.1036@0.23.1792.1036" timestamp="1588538813721" />
+    <state width="1766" height="372" key="GridCell.Tab.0.center" timestamp="1588557953106">
+      <screen x="0" y="23" width="1792" height="1033" />
+    </state>
+    <state width="1766" height="372" key="GridCell.Tab.0.center/0.23.1792.1033@0.23.1792.1033" timestamp="1588557953106" />
+    <state width="1766" height="372" key="GridCell.Tab.0.center/0.23.1792.1034@0.23.1792.1034" timestamp="1588549042076" />
+    <state width="1766" height="372" key="GridCell.Tab.0.center/0.23.1792.1036@0.23.1792.1036" timestamp="1588538813721" />
+    <state width="1766" height="372" key="GridCell.Tab.0.left" timestamp="1588557953106">
+      <screen x="0" y="23" width="1792" height="1033" />
+    </state>
+    <state width="1766" height="372" key="GridCell.Tab.0.left/0.23.1792.1033@0.23.1792.1033" timestamp="1588557953106" />
+    <state width="1766" height="372" key="GridCell.Tab.0.left/0.23.1792.1034@0.23.1792.1034" timestamp="1588549042076" />
+    <state width="1766" height="372" key="GridCell.Tab.0.left/0.23.1792.1036@0.23.1792.1036" timestamp="1588538813720" />
+    <state width="1766" height="372" key="GridCell.Tab.0.right" timestamp="1588557953107">
+      <screen x="0" y="23" width="1792" height="1033" />
+    </state>
+    <state width="1766" height="372" key="GridCell.Tab.0.right/0.23.1792.1033@0.23.1792.1033" timestamp="1588557953107" />
+    <state width="1766" height="372" key="GridCell.Tab.0.right/0.23.1792.1034@0.23.1792.1034" timestamp="1588549042077" />
+    <state width="1766" height="372" key="GridCell.Tab.0.right/0.23.1792.1036@0.23.1792.1036" timestamp="1588538813721" />
+    <state width="1766" height="480" key="GridCell.Tab.1.bottom" timestamp="1588548917202">
+      <screen x="0" y="23" width="1792" height="1034" />
+    </state>
+    <state width="1766" height="480" key="GridCell.Tab.1.bottom/0.23.1792.1033@0.23.1792.1033" timestamp="1588518991872" />
+    <state width="1766" height="480" key="GridCell.Tab.1.bottom/0.23.1792.1034@0.23.1792.1034" timestamp="1588548917202" />
+    <state width="1766" height="480" key="GridCell.Tab.1.bottom/0.23.1792.1036@0.23.1792.1036" timestamp="1588538171175" />
+    <state width="1766" height="480" key="GridCell.Tab.1.center" timestamp="1588548917201">
+      <screen x="0" y="23" width="1792" height="1034" />
+    </state>
+    <state width="1766" height="480" key="GridCell.Tab.1.center/0.23.1792.1033@0.23.1792.1033" timestamp="1588518991872" />
+    <state width="1766" height="480" key="GridCell.Tab.1.center/0.23.1792.1034@0.23.1792.1034" timestamp="1588548917201" />
+    <state width="1766" height="480" key="GridCell.Tab.1.center/0.23.1792.1036@0.23.1792.1036" timestamp="1588538171175" />
+    <state width="1766" height="480" key="GridCell.Tab.1.left" timestamp="1588548917201">
+      <screen x="0" y="23" width="1792" height="1034" />
+    </state>
+    <state width="1766" height="480" key="GridCell.Tab.1.left/0.23.1792.1033@0.23.1792.1033" timestamp="1588518991871" />
+    <state width="1766" height="480" key="GridCell.Tab.1.left/0.23.1792.1034@0.23.1792.1034" timestamp="1588548917201" />
+    <state width="1766" height="480" key="GridCell.Tab.1.left/0.23.1792.1036@0.23.1792.1036" timestamp="1588538171174" />
+    <state width="1766" height="480" key="GridCell.Tab.1.right" timestamp="1588548917202">
+      <screen x="0" y="23" width="1792" height="1034" />
+    </state>
+    <state width="1766" height="480" key="GridCell.Tab.1.right/0.23.1792.1033@0.23.1792.1033" timestamp="1588518991872" />
+    <state width="1766" height="480" key="GridCell.Tab.1.right/0.23.1792.1034@0.23.1792.1034" timestamp="1588548917202" />
+    <state width="1766" height="480" key="GridCell.Tab.1.right/0.23.1792.1036@0.23.1792.1036" timestamp="1588538171175" />
+    <state x="289" y="89" key="SettingsEditor" timestamp="1588557912035">
+      <screen x="0" y="23" width="1792" height="1033" />
+    </state>
+    <state x="289" y="89" key="SettingsEditor/0.23.1792.1033@0.23.1792.1033" timestamp="1588557912035" />
+    <state width="455" height="484" key="XDebugger.FullValuePopup" timestamp="1588536553078">
+      <screen x="0" y="23" width="1792" height="1036" />
+    </state>
+    <state width="455" height="482" key="XDebugger.FullValuePopup/0.23.1792.1033@0.23.1792.1033" timestamp="1588516174051" />
+    <state width="455" height="484" key="XDebugger.FullValuePopup/0.23.1792.1036@0.23.1792.1036" timestamp="1588536553078" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/../Comparison/Compare.py</url>
+          <line>26</line>
+          <option name="timeStamp" value="21" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/../Comparison/Compare.py</url>
+          <line>15</line>
+          <option name="timeStamp" value="22" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
+  </component>
+</project>
