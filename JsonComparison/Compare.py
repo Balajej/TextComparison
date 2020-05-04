@@ -24,6 +24,6 @@ for x in differ:
             unique_record_file.write('{}'.format(value).strip())
 
     elif 3 in x.values():
-        print('Different Records are found ')
+        print('Different Records are found')
         for value in x.values():
             different_record_file.write('{}'.format(value).strip())
